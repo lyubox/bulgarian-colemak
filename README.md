@@ -1,5 +1,5 @@
 # Bulgarian Colemak
-Colemak based on Bulgarian Phonetic
+Colemak based on Bulgarian Phonetic for Linux
 
 ## Installation 
 
